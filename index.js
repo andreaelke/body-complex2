@@ -1,4 +1,4 @@
-function hacker(name) {
- return "hello "+ name;
+function kejumani(name) {
+ return "hello "+ kejumani;
 }
 module.exports = hacker;
