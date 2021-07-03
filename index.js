@@ -1,4 +1,4 @@
 function kejumani(name) {
- return "hello "+ kejumani;
+ return "hello "+ name;
 }
-module.exports = hacker;
+module.exports = kejumani;
